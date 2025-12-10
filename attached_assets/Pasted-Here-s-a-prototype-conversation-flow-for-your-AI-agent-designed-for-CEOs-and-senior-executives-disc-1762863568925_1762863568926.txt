@@ -1,0 +1,81 @@
+Here’s a prototype conversation flow for your AI agent, designed for CEOs and senior executives discovering your CREATE Leadership Model™. The tone is calm, credible, and subtly reflective—positioning you as the human partner behind the tech.
+
+AI Agent Prototype: “CREATE Leadership Compass™”
+
+Greeting
+
+Hello, I’m the CREATE Leadership Compass™, your AI reflection partner powered by Dr. Ellen Ramsey’s CREATE Leadership Model™.
+This short conversation will help you explore how your current leadership approach aligns with six key dimensions of sustainable, human-centered leadership.
+May I ask a few quick questions to begin?
+
+Step 1: Conscious Self-Awareness
+
+How would you describe your current focus as a leader?
+A. Driving operational performance
+B. Strengthening your leadership team
+C. Preparing the organization for future growth
+D. Reassessing your own leadership impact
+
+(Response logic: maps to reflection depth and coaching readiness.)
+
+Step 2: Relational Intelligence
+
+When thinking about your executive team, which best describes the current dynamic?
+A. Highly aligned and trusting
+B. Functionally strong but somewhat siloed
+C. Capable but inconsistent in communication
+D. In transition or rebuilding trust
+
+Step 3: Ethical Influence
+
+How do values and ethics show up in your organization’s decision-making?
+
+Consistently reflected in strategy
+
+Sometimes discussed but not fully lived
+
+Primarily reactive when issues arise
+
+Step 4: Adaptive Growth
+
+In the face of disruption (AI, market shifts, new ownership), what’s your instinctive response as a leader?
+
+I adapt quickly and guide others to do the same
+
+I manage change, but it often feels reactive
+
+I rely on stability more than experimentation
+
+Step 5: Transparent Communication
+
+How freely does information flow across your leadership levels?
+
+Open and reciprocal
+
+Clear at the top, mixed elsewhere
+
+Controlled and cautious
+
+Step 6: Empowered Action
+
+When your team makes decisions, do they feel true ownership?
+
+Yes, autonomy is encouraged
+
+Partially, though some rely on approval
+
+Not yet—most decisions flow upward
+
+Summary Insight (AI-generated)
+
+Based on your responses, your leadership profile shows high integrity and strategic focus, with opportunity to strengthen cross-team alignment and adaptive communication.
+These themes align closely with the CREATE Leadership Model™ dimensions of Transparent Communication and Adaptive Growth.
+
+Call to Human Connection
+
+Many leaders find value in a brief, private consultation with Dr. Ramsey to interpret their CREATE Leadership Compass™ profile in the context of their organization.
+Would you like to request a confidential debrief or receive your summary report by email?
+
+(Lead capture: routes to your CRM or contact form.)
+
+Would you like me to create the visual and UX layout next (how this flow could look as an elegant web or chat experience on your site)? Or would you rather refine the questions and tone first before moving to design?
