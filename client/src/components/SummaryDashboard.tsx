@@ -154,55 +154,30 @@ export default function SummaryDashboard({
         </p>
       </Card>
 
-      <Card className="p-8 md:p-12 shadow-lg border-primary/20">
-  <div className="text-center mb-8">
+<Card className="p-8 md:p-12 shadow-lg border-primary/20">
+  <div className="text-center">
     <h2 className="text-2xl font-semibold text-foreground mb-3">
       Take the Next Step
     </h2>
-    <p className="text-base text-muted-foreground max-w-2xl mx-auto">
-      Many leaders find value in a brief, private consultation with Dr. Ramsey to interpret
-      their CREATE Leadership Compass™ profile in the context of their organization.
-    </p>
-  </div>
 
-  <div className="flex flex-col sm:flex-row gap-4 justify-center">
-    <Button
-      size="lg"
-      onClick={onRequestDebrief}
-      className="gap-2"
-      data-testid="button-request-debrief"
+    <p className="text-base text-muted-foreground max-w-2xl mx-auto mb-6">
+      Ready to explore what your results mean for your leadership path?
+      In a brief, private CREATE Leadership Debrief with Dr. Ramsey,
+      you can explore your results in the context of your leadership
+      role, organization, and current challenges.
+    </p>
+
+    <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdRrNrjxkIhMlAmJD5Z2V7dIBhb0nyTI166Eh7_B3QIeJicOw/viewform?usp=dialog"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex items-center justify-center bg-primary text-primary-foreground px-6 py-3 rounded-md text-lg font-medium hover:bg-primary/90 transition"
     >
-      <Calendar className="w-5 h-5" />
-      Request Confidential Debrief
-    </Button>
-    <Button
-      size="lg"
-      variant="outline"
-      onClick={onEmailReport}
-      className="gap-2"
-      data-testid="button-email-report"
-    >
-      <Mail className="w-5 h-5" />
-      Email My Report
-    </Button>
+      <Calendar className="w-5 h-5 mr-2" />
+      Request a Private CREATE Leadership Debrief
+    </a>
   </div>
 </Card>
-
-{/* --- new addition here --- */}
-<div className="text-center mt-8">
-  <p className="text-lg text-muted-foreground mb-4">
-    Ready to explore what your results mean for your leadership path?
-  </p>
-  <a
-    href="https://docs.google.com/forms/d/e/1FAIpQLSdRrNrjxkIhMlAmJD5Z2V7dIBhb0nyTI166Eh7_B3QIeJicOw/viewform?usp=dialog"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-block bg-[#003366] text-white px-6 py-3 rounded-lg text-lg font-medium hover:bg-[#00284d] transition"
-  >
-    Share Your Information for a Private CREATE™ Debrief
-  </a>
-</div>
-
 <div className="text-center mt-12 text-sm text-muted-foreground">
   <p>CREATE Leadership Model™ developed by Dr. Ellen Ramsey, Ph.D.</p>
 </div>
