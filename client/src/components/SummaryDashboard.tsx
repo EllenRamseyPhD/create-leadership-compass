@@ -1,6 +1,5 @@
 import { Card } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Brain, Users, Shield, TrendingUp, MessageSquare, Zap, Mail, Calendar } from "lucide-react";
+import { Brain, Users, Shield, TrendingUp, MessageSquare, Zap, Calendar } from "lucide-react";
 import {
   RadarChart,
   PolarGrid,
