@@ -21,7 +21,7 @@ export default function Hero({ onBeginAssessment }: HeroProps) {
         </h1>
         
         <p className="text-xl md:text-2xl text-muted-foreground mb-4 leading-relaxed">
-          Your AI reflection partner powered by Dr. Ellen Ramsey's CREATE Leadership Model™
+          Your AI reflection partner powered by Dr. Ellen Ramsey's CREATE Leadership Model®
         </p>
         
         <p className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed">
