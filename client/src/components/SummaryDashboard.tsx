@@ -178,7 +178,7 @@ export default function SummaryDashboard({
   </div>
 </Card>
 <div className="text-center mt-12 text-sm text-muted-foreground">
-  <p>CREATE Leadership Model™ developed by Dr. Ellen Ramsey, Ph.D.</p>
+  <p>CREATE Leadership Model® developed by Dr. Ellen Ramsey, Ph.D.</p>
 </div>
 </div>
 );
