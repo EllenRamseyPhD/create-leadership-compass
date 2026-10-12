@@ -223,7 +223,7 @@ export default function Home() {
 
     if (mediumScores.length > 0 || highScores.length < questions.length) {
       summary += "Areas for potential development include enhancing cross-functional collaboration and adaptive communication strategies. ";
-      summary += "These opportunities align with the CREATE Leadership Model™ framework for continuous growth.\n\n";
+      summary += "These opportunities align with the CREATE Leadership Model® framework for continuous growth.\n\n";
     }
 
     summary += "Your profile suggests a leader who values both integrity and impact, with a foundation ready for deeper strategic work.";
